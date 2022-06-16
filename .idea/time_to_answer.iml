@@ -40,6 +40,7 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, asdf: 3.1.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug (v1.5.0, asdf: 3.1.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise (v4.8.1, asdf: 3.1.2) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="devise-i18n (v1.10.2, asdf: 3.1.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="digest (v3.1.0, asdf: 3.1.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.10.0, asdf: 3.1.2) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.0.0, asdf: 3.1.2) [gem]" level="application" />
@@ -105,6 +106,8 @@
         <option value="controller" />
         <option value="devise" />
         <option value="devise:controllers" />
+        <option value="devise:i18n:locale" />
+        <option value="devise:i18n:views" />
         <option value="devise:install" />
         <option value="devise:views" />
         <option value="generator" />
@@ -151,6 +154,8 @@
         <option value="controller" />
         <option value="devise" />
         <option value="devise:controllers" />
+        <option value="devise:i18n:locale" />
+        <option value="devise:i18n:views" />
         <option value="devise:install" />
         <option value="devise:views" />
         <option value="generator" />
